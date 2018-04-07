@@ -8,7 +8,7 @@ type user struct {
   ID string
   Username string
   Email string
-
+  
 }
 
 type post struct {
